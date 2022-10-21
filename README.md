@@ -1,4 +1,6 @@
-# Ananke, A theme for [Hugo](https://gohugo.io/), a framework for building websites.
+# A wedding website theme for [Hugo](https://gohugo.io/)
+
+This theme is forked from [Ananke](https://github.com/theNewDynamic/gohugo-theme-ananke).
 
 The intent of this theme is to provide a solid starting place for Hugo sites with basic features and include best practices for performance, accessibility, and rapid development.
 
